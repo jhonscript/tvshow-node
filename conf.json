@@ -1,0 +1,8 @@
+{
+    "serverPort": 8000,
+    "serverEnv": "production",
+    "mongoDB" : {
+        "host": "localhost",
+        "name": "tvshows"
+    }
+}
